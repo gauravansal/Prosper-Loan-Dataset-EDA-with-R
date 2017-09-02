@@ -26,3 +26,6 @@ EDA can lead to insights, which may uncover to other questions, and eventually p
 In this project, we will use R and apply EDA(exploratory data analysis) techniques to explore relationships in one variable to multiple variables and to explore a selected data set for distributions, outliers, and anomalies.
 
 The methodology is through univariate, bivariate and multivariate analysis to explore this dataset. The tool we will be using is R’s visualization package ggplot2 and linear model.
+
+#### Note -
+You can see the entire analysis [here](https://gauravansal.github.io/).
